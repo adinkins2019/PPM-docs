@@ -37,7 +37,8 @@
 <h3 align="center">Personal Project Manager</h3>
 
   <p align="center">
-    This project consists of a personal project manager.  The project manages your project from initial status to completion.  The landing page for this project utilizes Svelte, while the frontend using React and Redux and the backend consists of Java, Spring Boot. There are 3 separate 
+    This project consists of a personal project manager.  The project manages your project from initial status to completion.  The landing page for this project utilizes Svelte, while the frontend using React and Redux and the backend consists of Java, Spring Boot. There are 3 separate repositories, each representing a portion of the project. Those 3 features consist of the landing page, the front end application, and the backend API. 
+    
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
