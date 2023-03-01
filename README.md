@@ -34,10 +34,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Personal Project Manager/h3>
+<h3 align="center">Personal Project Manager</h3>
 
   <p align="center">
-    project_description
+    This project consists of a personal project manager.  The project manages your project from initial status to completion.  The landing page for this project utilizes Svelte, while the frontend using React and Redux and the backend consists of Java, Spring Boot. There are 3 separate 
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
